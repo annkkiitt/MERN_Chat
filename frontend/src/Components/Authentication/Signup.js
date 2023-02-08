@@ -159,7 +159,7 @@ export const Signup = () => {
         />
       </FormControl>
 
-      <FormControl id="password" isRequired>
+      <FormControl id="password">
         <FormLabel>Upload your picture</FormLabel>
         <Input
           type="file"
